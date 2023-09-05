@@ -5,10 +5,9 @@
 conda create -p env puthon==3.9 -y
 
 2. Activate conda environment
-# for CMD
+## for CMD
 conda activate env/
-
-# for bash
+## for bash
 source activate env/
 
 3. Install requirements file
