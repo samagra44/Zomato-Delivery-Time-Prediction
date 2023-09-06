@@ -2,4 +2,7 @@ pandas
 numpy
 Flask
 scikit-learn
+Pickle
+os
+sys
 -e . 
