@@ -13,3 +13,7 @@ source activate env/
 # 3. Install requirements file
 
 pip install -r requirements.txt
+
+# 4. Running the Application
+
+python app.py
