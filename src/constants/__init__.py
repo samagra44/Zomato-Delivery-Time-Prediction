@@ -38,3 +38,9 @@ TRANSFORM_TEST_DIR_KEY = "test.csv"
 
 #
 # artifact / data_transformation / procceor->processor.pkl abnd transformation -> train.csv and test.csv
+
+# Model Training
+
+MODEL_TRAINER_KEY = "model_trainer"
+MODEL_OBJECT = "model.pkl"
+

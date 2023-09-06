@@ -5,4 +5,6 @@ scikit-learn
 Pickle
 os
 sys
+Dataclasses
+xgboost
 -e . 

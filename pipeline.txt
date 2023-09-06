@@ -2,3 +2,9 @@ constant file-> configuration.py file -> data ingestion
 
 # Data Transformation
 constant file -> configuartion file -> data transformation -> utilf file -> data transformation
+
+# Model Training
+1.constants -> Done
+2.configuration -> Done
+3.Model Training
+4.utils file (helper function)
