@@ -59,22 +59,26 @@ To run the Zomato Delivery Time Prediction Application:
 3. Access the application by navigating to `http://localhost:8888` in your web browser.
 
 ### 1. Create  New Environment
-
+```
 **conda create -p env puthon==3.9 -y**
-
+```
 ### 2. Activate conda environment
 ### for CMD
+```
 **conda activate env/**
+```
 ### for bash
+```
 **source activate env/**
-
+```
 ### 3. Install requirements file
-
+```
 **pip install -r requirements.txt**
-
+```
 ### 4. Running the Application
-
+```
 **python app.py**
+```
 
 ### Additional Notes
 
