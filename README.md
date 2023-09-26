@@ -60,24 +60,24 @@ To run the Zomato Delivery Time Prediction Application:
 
 ### 1. Create  New Environment
 ```
-**conda create -p env puthon==3.9 -y**
+conda create -p env puthon==3.9 -y
 ```
 ### 2. Activate conda environment
 ### for CMD
 ```
-**conda activate env/**
+conda activate env/
 ```
 ### for bash
 ```
-**source activate env/**
+source activate env/
 ```
 ### 3. Install requirements file
 ```
-**pip install -r requirements.txt**
+pip install -r requirements.txt
 ```
 ### 4. Running the Application
 ```
-**python app.py**
+python app.py
 ```
 
 ### Additional Notes
