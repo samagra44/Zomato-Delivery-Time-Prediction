@@ -1,6 +1,6 @@
 # Zomato Delivery Time Prediction Application
 
-![Zomato_logo](https://github.com/samagra44/Zomato_Delivery_Time_Prediction/assets/77968722/296a8ed6-596e-4436-a573-811d0e4b78de)
+![rubaitul-azad-N0gLp-w6zF4-unsplash](https://github.com/samagra44/Zomato_Delivery_Time_Prediction/assets/77968722/e206ad54-a9db-433d-b65c-43ce2f9f5dd7)
 
 ## Project Overview
 
