@@ -1,5 +1,7 @@
 # Zomato Delivery Time Prediction Application
 
+![Zomato_logo](https://github.com/samagra44/Zomato_Delivery_Time_Prediction/assets/77968722/296a8ed6-596e-4436-a573-811d0e4b78de)
+
 ## Project Overview
 
 The Zomato Delivery Time Prediction Application is a machine learning-driven Flask web application designed to predict the estimated delivery time for food orders placed on the Zomato platform. This project has been built from scratch, encompassing all the essential files and folders required for a real-world data science project. The application uses a machine learning model to provide users with accurate delivery time estimates.
