@@ -87,6 +87,14 @@ python app.py
 - Make sure to set up the environment and data as required before running the application.
 - This README provides an overview of the project structure and workflow. For more detailed instructions and documentation, refer to specific files or folders within the project.
 
+![sss1](https://github.com/samagra44/Zomato_Delivery_Time_Prediction/assets/77968722/4b8b891d-490a-46c8-b4da-7495f8239027)
+
+
+
+![sss2](https://github.com/samagra44/Zomato_Delivery_Time_Prediction/assets/77968722/b61d5ab4-f100-4c61-90d0-f2ffd024362e)
+
+
+
 ### Acknowledgments
 
 This project was developed by Samagra Shrivastava as a demonstration of machine learning and web application development skills. Feel free to explore the code and contribute to its improvement. If you have any questions or feedback, please don't hesitate to contact samagra6424@gmail.com.
